@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\A575_Apulia\\.nuget\\packages\\": {}
+    "C:\\Users\\A584_Apulia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A575_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "C:\\Users\\A584_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "C:\\Users\\A575_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
-      "packagesPath": "C:\\Users\\A575_Apulia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A575_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\obj\\",
+      "projectPath": "C:\\Users\\A584_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
+      "packagesPath": "C:\\Users\\A584_Apulia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A584_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\A575_Apulia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\A584_Apulia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
