@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("letsgoski");
             Console.WriteLine("si è così che si fa");
             Console.WriteLine("IL REEEE");
+            //basta
         }
     }
 }
