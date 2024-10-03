@@ -9,6 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Ciao sono Angelo!");
             Console.WriteLine("Ciao sono Marcondiro");
             Console.WriteLine("letsgoski");
+            Console.WriteLine("si è così che si fa");
         }
     }
 }
