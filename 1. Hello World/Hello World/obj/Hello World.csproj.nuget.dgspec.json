@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\POTRIMBAP\\Desktop\\corso\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj": {}
+    "C:\\Users\\A577_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\POTRIMBAP\\Desktop\\corso\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj": {
+    "C:\\Users\\A577_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\POTRIMBAP\\Desktop\\corso\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
+        "projectUniqueName": "C:\\Users\\A577_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "C:\\Users\\POTRIMBAP\\Desktop\\corso\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
-        "packagesPath": "C:\\Users\\POTRIMBAP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\POTRIMBAP\\Desktop\\corso\\dotnet_course\\1. Hello World\\Hello World\\obj\\",
+        "projectPath": "C:\\Users\\A577_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\Hello World.csproj",
+        "packagesPath": "C:\\Users\\A577_Apulia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A577_Apulia\\Desktop\\dotnet_course\\1. Hello World\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\POTRIMBAP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A577_Apulia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
